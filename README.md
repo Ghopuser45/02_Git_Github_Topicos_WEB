@@ -2,7 +2,7 @@
 
 ## Nome: Gustavo Henrique Oliveira Pestana
 
-## COnhecimentos Tópicos WEB
+## Conhecimentos Tópicos WEB
 
 - HTML - Intermediário
 - CSS - Intermediário
